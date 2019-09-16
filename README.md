@@ -8,8 +8,8 @@ This repo contains interesting Datacamps Projects I have completed:
 4.  Word Frequency in Moby Dick [NLP -nltk]
 5.  TV, Halftime Shows, and the Big Game
 6.  What Makes a Pokémon Legendary
-7.  Predicting Bees species [Deep Learning with Images, scikit-Image (Data Driven Competion)]
-    -Naïve Bees_ Image Loading and Processing
-    -Naïve Bees_ Deep Learning with Images
-    -Naïve Bees_ Predict Species from Images
+7.  Predicting Bees species [Deep Learning with Images, scikit-Image (Data Driven Competion)]  
+    -Naïve Bees_ Image Loading and Processing  
+    -Naïve Bees_ Deep Learning with Images  
+    -Naïve Bees_ Predict Species from Images  
 
