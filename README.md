@@ -6,3 +6,6 @@ This repo contains interesting Datacamps Projects I have completed:
 2.  Predicting Credit Card Approvals
 3.  Predict_Blood_Donations
 4.  Word Frequency in Moby Dick [NLP -nltk]
+5.  TV, Halftime Shows, and the Big Game
+6.  What Makes a Pokémon Legendary
+
