@@ -13,4 +13,4 @@ This repo contains interesting Datacamps Projects I have completed:
     -Naïve Bees_ Deep Learning with Images  
     -Naïve Bees_ Predict Species from Images  
 8.  Classify Song Genres from Audio Data  
-
+9.  The Hottest Topics in Machine Learning [Text analysis -LDA]
