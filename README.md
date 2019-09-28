@@ -15,3 +15,4 @@ This repo contains interesting Datacamps Projects I have completed:
 8.  Classify Song Genres from Audio Data  
 9.  The Hottest Topics in Machine Learning [Text analysis -LDA]
 10. Predict Taxi Fares with Random Forests
+11. Clustering Heart Disease Patient Data
