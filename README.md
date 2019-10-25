@@ -17,3 +17,4 @@ This repo contains interesting Datacamps Projects I have completed:
 10. Predict Taxi Fares with Random Forests
 11. Clustering Heart Disease Patient Data [Clustering R]
 12. Degrees That Pay You Back [Clustering R]
+13. Clustering Bustabit Gambling Behavior
