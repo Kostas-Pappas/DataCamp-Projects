@@ -18,3 +18,4 @@ This repo contains interesting Datacamps Projects I have completed:
 11. Clustering Heart Disease Patient Data [Clustering R]
 12. Degrees That Pay You Back [Clustering R]
 13. Clustering Bustabit Gambling Behavior
+14. Find Movie Similarity from Plot Summaries [NLP]
